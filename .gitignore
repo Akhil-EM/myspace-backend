@@ -1,0 +1,6 @@
+node_modules
+.env
+public/resources/images/profile/*
+!public/resources/images/profile/.gitkeep
+public/resources/images/post/*
+!public/resources/images/post/.gitkeep
